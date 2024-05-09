@@ -1,0 +1,4 @@
+ECHO is on.
+hi khan 
+hi khan 
+we can open a file through type command in cmd
